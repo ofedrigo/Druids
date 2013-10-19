@@ -10,7 +10,7 @@ Three versions are available:
 <ul>
 <li> Windows vesion (Druids_Setup.exe), not tested after windows XP</li>
 <li> Mac OSX version (Druids.dmg), not tested after OSX 10.5</li>
-<li> Python version (pyDruids.zip), command line version. See below</li>
+<li> Python version (pyDruids.py), command line version. See below</li>
 </ul>
 
 pyDruids.py -f inputFileName -w windowSize -a attribute -o outputFileName -b nreplicates -p percent -g geneticCode -m fillGaps
