@@ -13,7 +13,7 @@ Three versions are available:
 <li> Python version (pyDruids.zip), command line version. See below</li>
 </ul>
 
-pyDruids.py -f <inputFileName> -w <windowSize> -a <attribute> -o <outputFileName> -b <nreplicates> -p <percent> -g <geneticCode> -m <fillGaps> 
+pyDruids.py -f inputFileName -w windowSize -a attribute -o outputFileName -b nreplicates -p percent -g geneticCode -m fillGaps
 
 requires Bio Python to be installed.
 
